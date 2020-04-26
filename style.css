@@ -1,0 +1,24 @@
+h1{
+    color:red;
+}
+*{
+    border: solid;                                                        
+}
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.footer{
+    display:flex;
+    justify-content: space-around;
+}
+p,h2{
+    text-align: center;
+    background-color: darkgreen;
+}
